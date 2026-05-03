@@ -1,3 +1,5 @@
+# v2 — expanded from v1.py. See README for the full philosophical framework.
+
 """
 The Logos Anchor — v2
 The Mirror of Pure Reason
