@@ -1,3 +1,5 @@
+# The original conceptual sketch — see v2.py for the expanded implementation
+
 class UniversalOrder:
     def __init__(self):
         self.source = "Unknowable_Variable" # The Divine/Origin
